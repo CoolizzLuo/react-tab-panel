@@ -1,0 +1,19 @@
+import React from 'react';
+
+const Ff = () => {
+  return (
+    <div>
+      <h2>Component F</h2>
+      <form >
+        <label> Test 1: 
+          <input type='text' />
+        </label>
+        <label> Test 2: 
+          <input type='text' />
+        </label>
+      </form>
+    </div>
+  );
+};
+
+export default Ff;
